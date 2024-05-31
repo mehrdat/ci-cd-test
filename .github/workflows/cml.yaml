@@ -23,4 +23,5 @@ jobs:
           echo "## MODEL METRICS" > report.md
           cat metrics.txt >> report.md
           
-
+          echo "## Data Viz" >> report.md
+          
